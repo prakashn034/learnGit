@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master this is master line
+=======
+branch1 first line in fourth file 
+>>>>>>> branch1

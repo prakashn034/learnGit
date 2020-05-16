@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master this is first line of file1
+=======
+this is first line of file2 branch1
+>>>>>>> branch1
