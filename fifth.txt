@@ -1,4 +1,7 @@
+branch1==>
 fifth file branch1 added
 i am adding new files in remote repo to create pull requests
 rcb rocks ab and virat are lob
 ee sala cup namde
+master ==>
+master prakash nayak added new line 
